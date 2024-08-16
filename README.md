@@ -49,7 +49,7 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](/univariate.png)
+![Screenshot 2024-08-16 093219](https://github.com/user-attachments/assets/46f79cb7-deed-4378-97d7-7c71621254b5)
 
 
 ## Result:
